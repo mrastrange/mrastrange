@@ -40,7 +40,7 @@
 <a href="https://twitter.com/cr_alpha_elite">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
-<a href="https://telegram.dog.me/czyalpha">
+<a href="https://telegram.dog/czyalpha">
   <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/abijith.jpeg">
