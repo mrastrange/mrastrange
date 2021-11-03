@@ -12,7 +12,9 @@
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight" />
 </details>
-
+<details><summary><b>Contact</b></summary>
+<br/>
+<p align="center">
 <a href="https://twitter.com/cr_alpha_elite">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
@@ -25,4 +27,4 @@
   <a href="https://da.gd/alpha">
   <img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/authy.svg" />
 </a>
-
+</details>
