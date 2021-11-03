@@ -1,8 +1,29 @@
 ### Hi there 👋
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight)
-](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
 - 🌱 I’m currently learning C++ and HTML
 - 📫 How to reach me: [Telegram](https://telegram.dog/czyalpha)
+
+details><summary><b>Stats</b></summary>
+<br/>
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight"
+    />
+</details>
+
+<a href="https://twitter.com/cr_alpha_elite">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
+</a>
+<a href="https://telegram.dog.me/czyalpha">
+  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+</a>
+<a href="https://www.instagram.com">
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+</a> 
+  <a href="https://da.gd/alpha">
+  <img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/authy.svg" />
+</a>
+
