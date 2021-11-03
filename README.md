@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/mrastrange/mrastrange/blob/main/elements/hello.gif"  height="300" width="500">
 <h1 align='left'> Hola Amigo 👋,I'm Abijith </h1>
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
