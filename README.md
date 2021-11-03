@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align='left'> Hola Amigo 👋 </h1>
 
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
