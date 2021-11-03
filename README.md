@@ -1,7 +1,6 @@
-<h1 align='left'> Hola Amigo 👋 </h1>
+<h1 align='left'> Hola Amigo 👋,I'm Abijith </h1>
 
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
+- 🔭 I’m currently working on my [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
 - 🌱 I’m currently learning C++ and HTML
 - 📫 How to reach me: [Telegram](https://telegram.dog/czyalpha)
 
@@ -12,6 +11,17 @@
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight" />
 </details>
+
+<details><summary><b>Trophies</b></summary>
+<br/>
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-profile-trophy.vercel.app/?username=mrastrange&theme=algolia"
+    />
+</details>
+
+
 <details><summary><b>Contact</b></summary>
 <br/>
 <p align="center">
