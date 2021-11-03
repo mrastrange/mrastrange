@@ -12,6 +12,16 @@
         src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight" />
 </details>
 
+<details><summary><b>Contribution Graph</b></summary>
+<br/>
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=mrastrange&custom_title=Contribution+Graph&theme=react-dark"
+    />
+</p>
+</details>
+
 <details><summary><b>Trophies</b></summary>
 <br/>
 <p align="center">
