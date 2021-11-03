@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++ and HTML
 - 📫 How to reach me: [Telegram](https://telegram.dog/czyalpha)
 
-details><summary><b>Stats</b></summary>
+<details><summary><b>Stats</b></summary>
 <br/>
 <p align="center">
     <img
