@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on my [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
 - 🌱 I’m currently learning C++ and HTML
 - 📫 How to reach me: [Telegram](https://telegram.dog/czyalpha)
+- 📫 Updates Channel: [Support](https://telegram.dog/cr_alpha_elite)
 
 <details><summary><b>Stats</b></summary>
 <br/>
