@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrastrange)](https://github.com/anuraghazra/github-readme-stats)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight)
+](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
 - 🌱 I’m currently learning C++ and HTML
