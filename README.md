@@ -43,7 +43,7 @@
 <a href="https://telegram.dog/czyalpha">
   <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/abijith.jpeg">
+<a href="https://www.instagram.com/czyalpha">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
 </a> 
   <a href="https://da.gd/alpha">
