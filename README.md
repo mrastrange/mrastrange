@@ -1,7 +1,12 @@
+<h1 align=center>
 <img
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif"
-    width=32px> 
-## **Hello👋,I'm [Abijith](https://mrastrange.github.io)**
+    width=32px> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px> <img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif"
+    width=32px>
+    </h1>
+    
+   ## **Hi 👋 I'm [Abijith](https://mrastrange.github.io) !**
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 <details><summary><b>Stats</b></summary>
