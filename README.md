@@ -31,13 +31,13 @@
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
  
  <!--START_SECTION:waka-->
-  <details><summary><b>Contribution Graph</b></summary>
+  <details><summary><b>Coding Metrics</b></summary>
  </details>
 <!--END_SECTION:waka-->
 
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
- <details><summary><b>Contribution Graph</b></summary>
+ <details><summary><b>Recent Activity</b></summary>
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [mrastrange/adityaprasad502](https://github.com/mrastrange/adityaprasad502) from [adityaprasad502/adityaprasad502](https://github.com/adityaprasad502/adityaprasad502)
 2. 🔱 Forked [mrastrange/VinuXD](https://github.com/mrastrange/VinuXD) from [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
