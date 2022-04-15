@@ -30,10 +30,10 @@
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
  
- <!--START_SECTION:waka-->
   <details><summary><b>Coding Metrics</b></summary>
- </details>
+ <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+ </details>
 
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
@@ -45,6 +45,7 @@
 4. 🔱 Forked [mrastrange/VinuXD](https://github.com/mrastrange/VinuXD) from [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
 5. ⭐ Starred [DPSLEGEND/Ubuntu-SSH-1](https://github.com/DPSLEGEND/Ubuntu-SSH-1)
 <!--RECENT_ACTIVITY:end-->
+      </details>
 
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
