@@ -1,11 +1,9 @@
-<img align="right" src="https://github.com/mrastrange/mrastrange/blob/main/elements/hello.gif"  height="300" width="500">
-<h1 align='left'> Hola Amigo 👋,I'm Abijith </h1>
-
-- 🔭 I’m currently working on my [Portfolio](https://github.com/mrastrange/mrastrange.github.io)
-- 🌱 I’m currently learning C++ and HTML
-- 📫 How to reach me: [Telegram](https://telegram.dog/xlpha)
-- 📫 Updates Channel: [Support](https://telegram.dog/runxd)
-
+<img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif"
+    width=32px> 
+## **Hello👋,I'm [Abijith](https://mrastrange.github.io)**
+<a href="https://mrastrange.github.io"> <img
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 <details><summary><b>Stats</b></summary>
 <br/>
 <p align="center">
@@ -13,7 +11,8 @@
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=tokyonight" />
 </details>
-
+<a href="https://mrastrange.github.io"> <img
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 <details><summary><b>Contribution Graph</b></summary>
 <br/>
 <p align="center">
@@ -23,6 +22,11 @@
     />
 </p>
 </details>
+<a href="https://mrastrange.github.io"> <img
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
+ 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details><summary><b>Trophies</b></summary>
 <br/>
@@ -32,6 +36,8 @@
         src="https://github-profile-trophy.vercel.app/?username=mrastrange&theme=algolia"
     />
 </details>
+<a href="https://mrastrange.github.io"> <img
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
 
 <details><summary><b>Contact</b></summary>
@@ -46,7 +52,9 @@
 <a href="https://www.instagram.com/czyalpha/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
 </a> 
-  <a href="https://da.gd/alpha">
+  <a href="https://mrastrange.github.io">
   <img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/authy.svg" />
 </a>
 </details>
+<a href="https://mrastrange.github.io"> <img
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
