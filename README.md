@@ -39,11 +39,11 @@
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
  <details><summary><b>Recent Activity</b></summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Meghthedev/android_vendor_oppo_A37](https://github.com/Meghthedev/android_vendor_oppo_A37)
-2. ⭐ Starred [httpie/httpie](https://github.com/httpie/httpie)
-3. 🔱 Forked [mrastrange/readme-stats](https://github.com/mrastrange/readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 🔱 Forked [mrastrange/VinuXD](https://github.com/mrastrange/VinuXD) from [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-5. 🔱 Forked [mrastrange/readme-stats](https://github.com/mrastrange/readme-stats) from [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+1. 📔 Created new repository [mrastrange/vendor_googlecamera](https://github.com/mrastrange/vendor_googlecamera)
+2. 🔱 Forked [mrastrange/android_kernel_realme_karashi](https://github.com/mrastrange/android_kernel_realme_karashi) from [P-Salik/android_kernel_realme_karashi](https://github.com/P-Salik/android_kernel_realme_karashi)
+3. 🔱 Forked [mrastrange/android_device_realme_RMX1941](https://github.com/mrastrange/android_device_realme_RMX1941) from [ok-ano0s/android_device_realme_RMX1941](https://github.com/ok-ano0s/android_device_realme_RMX1941)
+4. 🔱 Forked [mrastrange/android_vendor_realme_RMX1941](https://github.com/mrastrange/android_vendor_realme_RMX1941) from [ok-ano0s/android_vendor_realme_RMX1941](https://github.com/ok-ano0s/android_vendor_realme_RMX1941)
+5. ⭐ Starred [ok-ano0s/android_vendor_realme_RMX1941](https://github.com/ok-ano0s/android_vendor_realme_RMX1941)
 <!--RECENT_ACTIVITY:end-->
       </details>
 
