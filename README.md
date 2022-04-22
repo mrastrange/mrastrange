@@ -26,26 +26,8 @@
         src="https://activity-graph.herokuapp.com/graph?username=mrastrange&custom_title=Contribution+Graph&theme=react-dark"
     />
 </p>
-</details>
-<a href="https://mrastrange.github.io"> <img
- src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
- 
-  <details><summary><b>Coding Metrics</b></summary>
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
  </details>
 
-<a href="https://mrastrange.github.io"> <img
- src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
- <details><summary><b>Recent Activity</b></summary>
-<!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [mrastrange/vendor_googlecamera](https://github.com/mrastrange/vendor_googlecamera)
-2. 🔱 Forked [mrastrange/android_kernel_realme_karashi](https://github.com/mrastrange/android_kernel_realme_karashi) from [P-Salik/android_kernel_realme_karashi](https://github.com/P-Salik/android_kernel_realme_karashi)
-3. 🔱 Forked [mrastrange/android_device_realme_RMX1941](https://github.com/mrastrange/android_device_realme_RMX1941) from [ok-ano0s/android_device_realme_RMX1941](https://github.com/ok-ano0s/android_device_realme_RMX1941)
-4. 🔱 Forked [mrastrange/android_vendor_realme_RMX1941](https://github.com/mrastrange/android_vendor_realme_RMX1941) from [ok-ano0s/android_vendor_realme_RMX1941](https://github.com/ok-ano0s/android_vendor_realme_RMX1941)
-5. ⭐ Starred [ok-ano0s/android_vendor_realme_RMX1941](https://github.com/ok-ano0s/android_vendor_realme_RMX1941)
-<!--RECENT_ACTIVITY:end-->
-      </details>
 
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
@@ -61,9 +43,22 @@
 <a href="https://mrastrange.github.io"> <img
  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
+ 
+ ## My Recent Activities
+ <!--RECENT_ACTIVITY:start-->
 
-<details><summary><b>Contact</b></summary>
-<br/>
+<!--RECENT_ACTIVITY:end-->
+
+## 👨‍💻 My WakaTime statistics:
+
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    
+
+
+## Contact
+
 <p align="center">
 <a href="https://twitter.com/cr_alpha_elite">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
