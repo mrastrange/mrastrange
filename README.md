@@ -6,7 +6,7 @@
      ~ ✔️ I'm intrested in Graphical Designing & Open Source Projects.
      ~ 👀 Languages(i Know): C,C++,HTML,CSS,Python.
      ~ 📱 Devices I own are Realme C2,Samsung J2 Pro(2016),Realme GT Neo 3T.
-     ~ 📱 I'm was maintaining Realme C2 for XdroidOS and Awaken Unofficially.
+     ~ 📱 I was maintaining Realme C2 for XdroidOS and Awaken Unofficially.
 <a href="https://mrastrange.github.io"><img align="center" width="100%" padding ="30px" src="dev.gif"></a>    
 <details><summary><b>Stats</b></summary>
 <br/>
