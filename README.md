@@ -2,11 +2,11 @@
     <h1 align="center"><hr>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://mrastrange.github.io">Abijith</a><hr></h1>
 
  
-     ~ 🌱 I’m currently a higher secondary student
+     ~ 🌱 I’m currently pursuing Higher studies 
      ~ ✔️ I'm intrested in Graphical Designing & Open Source Projects.
-     ~ 👀 Languages(i Know): C,C++,HTML,CSS.
-     ~ 📱 Devices I own are Realme C2,Samsung J2 Pro(2016).
-     ~ 📱 I'm Actively maintaining Realme C2 for XdroidOS and Awaken Unofficially.
+     ~ 👀 Languages(i Know): C,C++,HTML,CSS,Python.
+     ~ 📱 Devices I own are Realme C2,Samsung J2 Pro(2016),Realme GT Neo 3T.
+     ~ 📱 I'm was maintaining Realme C2 for XdroidOS and Awaken Unofficially.
 <a href="https://mrastrange.github.io"><img align="center" width="100%" padding ="30px" src="dev.gif"></a>    
 <details><summary><b>Stats</b></summary>
 <br/>
