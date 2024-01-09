@@ -1,7 +1,8 @@
 <div align="left">
     <h1 align="center"><hr>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://mrastrange.github.io">Abijith</a><hr></h1>
 
- 
+     ~ 👀 a young photogrpher from Tamil Nadu, India
+     ~ 📱 capture and cinematize
      ~ 🌱 I’m currently pursuing Higher studies 
      ~ ✔️ I'm intrested in Graphical Designing & Open Source Projects.
      ~ 👀 Languages(i Know): C++,HTML,CSS,Python.
@@ -16,14 +17,7 @@
         src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=midnight-purple" />
 </details>
 
-<details><summary><b>Contribution Graph</b></summary>
-<br/>
-<p align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=mrastrange&custom_title=Contribution+Graph&theme=react-dark"
-</p>
- </details>
+
     
 ## 👨‍💻 My WakaTime statistics:
 
