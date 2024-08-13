@@ -1,11 +1,11 @@
 <div align="left">
-    <h1 align="center"><hr>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://mrastrange.github.io">Abijith</a><hr></h1>
+    <h1 align="center"><hr>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://bit.ly/abijith">Abijith</a><hr></h1>
 
-     ~ 👀 a young photogrpher from Tamil Nadu, India
+     ~ 👀 a young photographer from Tamil Nadu, India
      ~ 📱 capture and cinematize
      ~ 🌱 I’m currently pursuing Higher studies 
      ~ ✔️ I'm intrested in Graphical Designing & Open Source Projects.
-     ~ 👀 Languages(i Know): C++,HTML,CSS,Python.
+     ~ 👀 Languages(i Know): C++,HTML,CSS,Python,Java(Learning rn).
      ~ 📱 Devices I own are Realme C2,Samsung J2 Pro(2016),Realme GT Neo 3T.
      ~ 📱 I was maintaining Realme C2 for XdroidOS and Awaken Unofficially.
 <a href="https://mrastrange.github.io"><img align="center" width="100%" padding ="30px" src="dev.gif"></a>    
