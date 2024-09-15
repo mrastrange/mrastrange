@@ -28,5 +28,6 @@
  <a href="kabijith97@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
  
     
-    
+[![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/315zup4y6pk7nvq7plffrsk3kpjy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrastrange&label=Profile%20Views&color=000000&style=flat"> </p>
