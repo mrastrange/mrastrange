@@ -19,7 +19,7 @@
 
     
  ## Contact
- <a href="https://in.linkedin.com/in/abijith-k-903697305"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+ <a href="https://in.linkedin.com/in/abijith-k-903697305"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=D14836"/></a>
  <a href="https://t.me/xlpha"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
  <a href="https://instagram.com/czyalpha"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=2CA5E0"/></a>
  <a href="kabijith97@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
