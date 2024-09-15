@@ -16,7 +16,8 @@
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=mrastrange&show_icons=true&theme=midnight-purple" />
 </details>
-
+## Stats
+[![Abijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrastrange)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools
    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=orange"/>
        <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=green"/>
